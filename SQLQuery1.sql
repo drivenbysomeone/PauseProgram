@@ -1,0 +1,1 @@
+﻿SELECT [Alarms dataDesign].AlarmTime,AlarmTypesDesignDB.Text From [Alarms dataDesign] INNER JOIN AlarmTypesDesignDB ON [Alarms dataDesign].TypeId=AlarmTypesDesignDB.TypeId INNER JOIN LocationsDatadesign ON [Alarms dataDesign].LocationId=LocationsDatadesign.LocationId WHERE LocationsDatadesign.LocationId = 1;

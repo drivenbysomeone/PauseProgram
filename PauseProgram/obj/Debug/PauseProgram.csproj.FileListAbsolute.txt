@@ -1,1 +1,11 @@
 U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\bin\Debug\PauseProgram.exe.config
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.csprojResolveAssemblyReference.cache
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.Form1.resources
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.Properties.Resources.resources
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.csproj.GenerateResource.Cache
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\bin\Debug\PauseProgram.exe
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\bin\Debug\PauseProgram.pdb
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.exe
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\obj\Debug\PauseProgram.pdb
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\bin\Debug\AspItDB.mdf
+U:\AspIT1020\2.år - flex\projekter\PauseProgram\PauseProgram\bin\Debug\AspItDB_log.ldf
